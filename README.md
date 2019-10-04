@@ -9,7 +9,7 @@ This project ...
 
 The global pharmaceuticals market was worth $934.8 billion in 2017[1], alongside with it, counterfeit drugs was worth between $163 to $217 billion[2] due to which 'People are dying every day'[3]. Fake drugs kill more than 250,000 children a year, doctors warn[4]. Critical drugs like cancer treatment medicines are counterfieted [5] and the complexity has exponentially increased with the online pharmacies selling unapproved drugs [6]. The pharmaceutical market will reach $1170 billion in 2021, growing at 5.8% [1] and so will the counterfeit drugs problem, actively seeking a potential solution.
 
-Blockchain technology is seen as a potential solution to the problem. It can help prevent counterfeit drugs by adding better traceability and accountability.[7]
+Blockchain technology is seen as a potential solution to the problem. It can help prevent counterfeit drugs by adding better traceability and accountability.[7] Here is a simplified, trust-based pharma supply chain as an example https://medium.com/techracers/how-blockchain-contributes-to-drug-supply-chain-management-8a1a67ac02ef
 
 ## Architecture
 
