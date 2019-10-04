@@ -11,7 +11,9 @@ The global pharmaceuticals market was worth $934.8 billion in 2017[1], alongside
 
 Blockchain technology is seen as a potential solution to the problem. It can help prevent counterfeit drugs by adding better traceability and accountability.[7]
 
+## Architecture
 
+https://buildmedia.readthedocs.org/media/pdf/mediledger/latest/mediledger.pdf
 
 ### References:
 
