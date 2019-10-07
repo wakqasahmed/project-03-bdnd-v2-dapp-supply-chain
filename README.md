@@ -5,6 +5,12 @@ Ethereum Dapp for Tracking Items through Supply Chain (MediShop)
 
 This project ...
 
+MediConnect: Manufacturer to Consumer Introduction
+https://www.youtube.com/watchv=ew00e7hcbG8
+
+IBM Research: Pharmacy to Consumer Introduction
+https://www.youtube.com/watch?v=11Z4-XYoZAE
+
 ## Background
 
 The global pharmaceuticals market was worth $934.8 billion in 2017[1], alongside with it, counterfeit drugs was worth between $163 to $217 billion[2] due to which 'People are dying every day'[3]. Fake drugs kill more than 250,000 children a year, doctors warn[4]. Critical drugs like cancer treatment medicines are counterfieted [5] and the complexity has exponentially increased with the online pharmacies selling unapproved drugs [6]. The pharmaceutical market will reach $1170 billion in 2021, growing at 5.8% [1] and so will the counterfeit drugs problem, actively seeking a potential solution.
@@ -14,6 +20,15 @@ Blockchain technology is seen as a potential solution to the problem. It can hel
 ## Architecture
 
 https://buildmedia.readthedocs.org/media/pdf/mediledger/latest/mediledger.pdf
+
+## Actors
+
+Manufacturer
+Distributor/Wholesaler
+Pharmacist
+Prescriber/GP/Doctor
+Deliveryman
+Patient/Consumer
 
 ### References:
 
